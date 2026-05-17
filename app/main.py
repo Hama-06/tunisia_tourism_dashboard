@@ -1,3 +1,8 @@
+# Projet : Tunisia Tourism Dashboard
+# Realise par : Mohamed Ben Chaabene et Aicha Dakhaloui
+# Description : Dashboard interactif d'analyse du tourisme en Tunisie
+# Date : Mai 2026
+
 import streamlit as st
 
 # ── Page config — must be first Streamlit call ────────────────────────────────
