@@ -1,0 +1,34 @@
+year,country,arrivals_thousands,region
+2019,Algeria,3142,Africa
+2019,Libya,1056,Africa
+2019,France,1128,Europe
+2019,Germany,412,Europe
+2019,United Kingdom,298,Europe
+2019,Italy,387,Europe
+2019,Belgium,145,Europe
+2019,Switzerland,98,Europe
+2019,Russia,312,Europe
+2019,Morocco,89,Africa
+2019,Other,362,Other
+2022,Algeria,2540,Africa
+2022,Libya,820,Africa
+2022,France,780,Europe
+2022,Germany,290,Europe
+2022,United Kingdom,210,Europe
+2022,Italy,260,Europe
+2022,Belgium,98,Europe
+2022,Switzerland,72,Europe
+2022,Russia,98,Europe
+2022,Morocco,64,Africa
+2022,Other,835,Other
+2023,Algeria,3350,Africa
+2023,Libya,1120,Africa
+2023,France,1180,Europe
+2023,Germany,420,Europe
+2023,United Kingdom,310,Europe
+2023,Italy,395,Europe
+2023,Belgium,152,Europe
+2023,Switzerland,104,Europe
+2023,Russia,185,Europe
+2023,Morocco,95,Africa
+2023,Other,1059,Other

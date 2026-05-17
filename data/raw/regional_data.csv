@@ -1,0 +1,12 @@
+governorate,region,hotel_beds,hotel_capacity_pct_2019,hotel_capacity_pct_2023,lat,lon,tourism_type
+Sousse,Centre-Est,52000,78,82,35.8256,10.6369,Beach & Culture
+Nabeul,Nord-Est,38000,72,79,36.4561,10.7376,Beach
+Monastir,Centre-Est,30000,69,75,35.7643,10.8113,Beach & Airport
+Sfax,Centre-Est,4200,42,48,34.7406,10.7603,Business
+Tunis,Nord,18000,65,74,36.8190,10.1658,Culture & Business
+Djerba,Sud,45000,80,88,33.8076,10.8451,Beach & Culture
+Tozeur,Sud-Ouest,3800,55,62,33.9197,8.1335,Desert
+Hammamet,Nord-Est,34000,75,80,36.3997,10.5591,Beach
+Tabarka,Nord-Ouest,2800,40,47,36.9544,8.7575,Eco & Diving
+Bizerte,Nord,2200,35,41,37.2746,9.8739,Beach
+Mahdia,Centre-Est,8500,60,68,35.5047,11.0622,Beach
